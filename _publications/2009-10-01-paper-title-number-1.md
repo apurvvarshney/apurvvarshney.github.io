@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Flick Gesture Interaction in Augmented Reality: AR Carrom"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink:
+excerpt:
+date:
+venue: 'UIST 2021'
+paperurl:
+citation: 'Apurv Varshney, Justin Nilsen, Richa Wadaskar, and Misha Sra. 2021. Flick Gesture Interaction in Augmented Reality: AR Carrom. The Adjunct Publication of the 34th Annual ACM Symposium on User Interface Software and Technology. Association for Computing Machinery, New York, NY, USA, 60–62.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Gestural input can make augmented reality applications feel natural and intuitive. While gestures used as simple input controls are common, gestures that interact directly with the virtual objects are less so. These interaction gestures pose additional challenges since they require the application to make many interpretations about the hand in the camera’s field of view such as depth, occlusion, size, and motion. In this work, we describe and propose a flick gesture control mechanic that estimates force and direction from a baseline pinch gesture. We demonstrate the gesture through an example implementation of an AR version of a game called Carrom in which we use our flick mechanic to dynamically interact with the virtual Carrom striker.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://dl.acm.org/doi/10.1145/3474349.3480229)
