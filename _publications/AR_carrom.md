@@ -3,7 +3,7 @@ title: "Flick Gesture Interaction in Augmented Reality: AR Carrom"
 collection: publications
 permalink:
 excerpt:
-date:
+date: 2021-10-10
 venue: 'UIST 2021'
 paperurl:
 citation: 'Apurv Varshney, Justin Nilsen, Richa Wadaskar, and Misha Sra. 2021. Flick Gesture Interaction in Augmented Reality: AR Carrom. The Adjunct Publication of the 34th Annual ACM Symposium on User Interface Software and Technology. Association for Computing Machinery, New York, NY, USA, 60–62.'
