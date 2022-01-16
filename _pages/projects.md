@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Evaluation of Subretinal Prosthetic Implant (PRIMA) Simulation for Visual Acuity
+======
+* Course Project for CS 291A: Bionic Vision (Fall 2021)
+* Built a gaze-contingent VR experiment to simulate PRIMA prosthesis 
+* To evaluate the visual acuity that can be acheived by PRIMA, sighted participants can participate in this experiment and perform Landolt-C acuity test
+* Developed using HTC Vive Pro Headset, Unity and [pulse2percept](https://pulse2percept.readthedocs.io/en/stable/)
+
+noGram
+======
+* Course Project for CS 291A: Scalable Internet Services (Fall 2021)
+* Implemented a basic Social Network Web app using Ruby on Rails with a PostgreSQL database
+* Performed different tSung Load tests to analyze bottlenecks and scalability to better handle traffic
+* Performed Cost Analysis on AWS to determine best hardware configuration for a user arrival rate
+
 Flick Gesture Interaction in Augmented Reality: AR Carrom
 ======
 * Course Project for CS 291A: Future User Interfaces (Spring 2021)
