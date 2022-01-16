@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Research Assistant: (Bionic Vision Lab)[https://bionicvisionlab.org/]
+* Research Assistant: [Bionic Vision Lab](https://bionicvisionlab.org/)
   * Fall 2021 - present: working on AR/VR projects to solve blindness and low vision.
 
 * Teaching Assistant
