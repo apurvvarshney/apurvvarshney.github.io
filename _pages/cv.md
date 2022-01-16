@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * B.Tech in Computer Science & Engineering, Indian Institute of Technology Goa, 2020
+  * GPA: 8.03/10.00
 * M.S. in Computer Science, University of California Santa Barbara, 2022 (expected)
+  * GPA: 3.94/4.00
 
 Work experience
 ======
@@ -46,3 +48,9 @@ Skills
   * Keras
 * Unity
 * Latex
+
+Position of Responsibilities
+======
+* Design Head: IIT Goa ACM Studen Chapter 2018
+* Co-founder: IIT Goa Photography Club [Originals IIT Goa](https://www.youtube.com/c/OriginalsIITGoa/feature)
+* Hostel Wing Representative: IIT Goa UG Hostel Council 2017
