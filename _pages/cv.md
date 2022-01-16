@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* Research Assistant: (Bionic Vision Lab)[https://bionicvisionlab.org/]
+  * Fall 2021 - present: working on AR/VR projects to solve blindness and low vision.
+
 * Teaching Assistant
   * Fall 2021, Winter 2021: CS 64 (Computer Organization and Digital Logic Design)
   * Spring 2021: CS 160 (Translation of Programming Languages)
