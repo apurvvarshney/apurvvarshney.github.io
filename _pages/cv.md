@@ -33,6 +33,10 @@ Work experience
   * Learnt using SAS Enterprise Miner for Data Analysis.
   * Automated Dummy Test Data Generation for financial data of banks (generally private).
   
+* Summer 2018: IIT Goa
+  * Blockchain and Cryptography Research Intern under [Dr. Sreejith A. V.](https://www.iitgoa.ac.in/~sreejithav/)
+  * Developed basic dApps (Decentralised Apps) using Solidity and EVM (Ethereum Virtual Machine) which can run on a local Blockchain.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
