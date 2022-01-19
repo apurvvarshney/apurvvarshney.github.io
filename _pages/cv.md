@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Graduate Student Researcher: [Bionic Vision Lab](https://bionicvisionlab.org/)
-  * Fall 2021 - present: working on AR/VR projects to solve blindness and low vision.
+  * Fall 2021 - present: Developing AR/VR systems to simulate prosthetic vision to help solve blindness and low vision.
 
 * Teaching Assistant
   * Fall 2021, Winter 2021: CS 64 (Computer Organization and Digital Logic Design)
