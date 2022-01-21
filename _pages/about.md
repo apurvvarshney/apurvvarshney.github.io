@@ -14,4 +14,4 @@ Prior to joining UCSB, I completed my B. Tech in Computer Science & Engg. from I
 
 Apart from my academic life, I enjoy photography, playing tennis and watching F1.
 
-For a detailed list of my projects and achievements, do check out my CV.
+Do check out my one-page [Resume](/files/Resume.pdf). For a detailed list of my projects and achievements, see other sections.
