@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Graph Approaches for Adaptive AR
+======
+* Course Project for CS 292F: Machine Learning on Graphs (Spring 2022)
+* Problem: assigning objects of a virtual scene to new positions in an arbitrary real-world location.
+* Compared how purely geometrical algorithms and Graph ML techniques perform on this problem 
+
 Evaluation of Subretinal Prosthetic Implant (PRIMA) Simulation for Visual Acuity
 ======
 * Course Project for CS 291A: Bionic Vision (Fall 2021)
