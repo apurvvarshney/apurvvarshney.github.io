@@ -20,11 +20,13 @@ Work experience
 ======
 * Graduate Student Researcher: [Bionic Vision Lab](https://bionicvisionlab.org/)
   * Fall 2021 - present: Developing AR/VR systems to simulate prosthetic vision to help solve blindness and low vision.
+  * Developing High Stress VR Environments to study strategy shift performance
 
 * Teaching Assistant
-  * Fall 2021, Winter 2021: CS 64 (Computer Organization and Digital Logic Design)
+  * Fall 2021, Winter 2021, Winter 2022: CS 64 (Computer Organization and Digital Logic Design)
   * Spring 2021: CS 160 (Translation of Programming Languages)
   * Summer 2021: CS 16 (Problem Solving with Computers)
+  * Spring 2022, Summer 2022: CS 8 (Introduction to Computer Science)
 
 * Summer 2019: eClerx Services
   * Data Science Intern in the Research Department
@@ -55,6 +57,7 @@ Skills
 
 Position of Responsibilities
 ======
+* Co-Founder: Mentoring Unity for Virtual Reality Research
 * Design Head: IIT Goa ACM Studen Chapter 2018
 * Co-founder: IIT Goa Photography Club [Originals IIT Goa](https://www.youtube.com/c/OriginalsIITGoa/feature)
 * Hostel Wing Representative: IIT Goa UG Hostel Council 2017
