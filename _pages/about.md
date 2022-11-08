@@ -12,6 +12,6 @@ Hi! If you haven't already guessed, my name is Apurv. I am currently a Masters s
 
 Prior to joining UCSB, I completed my B. Tech in Computer Science & Engg. from Indian Institute of Technology, Goa in 2020. At IIT Goa, I worked with Prof. Clint George on Cancer subtype detection using Human Gene Expression data for my Bachelor’s Thesis.
 
-Apart from my academic life, I enjoy [photography](https://apurvvarshney.github.io/photography/), playing tennis and watching F1.
+Apart from my academic life, I enjoy [photography](https://apurvvarshney.github.io/photography/), playing tennis and watching F1, although not all at the same time.
 
 Do check out my one-page [Resume](/files/Resume.pdf). For a detailed list of my projects and achievements, see other sections.
