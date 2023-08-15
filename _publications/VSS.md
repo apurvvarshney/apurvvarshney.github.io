@@ -4,7 +4,7 @@ collection: poster
 permalink:
 excerpt:
 date: '2023-05-20'
-venue: 'VSS 2023'
+venue: 'VSS'
 paperurl: 'https://www.visionsciences.org/presentation/?id=5184'
 citation:
 ---
