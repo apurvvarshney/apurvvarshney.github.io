@@ -1,16 +1,17 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Publications
 
-{% include base_path %}
+- Apurv Varshney, Justin Nilsen, Richa Wadaskar, and Misha Sra. (2021) <br>
+  [Flick Gesture Interaction in Augmented Reality: AR Carrom](https://dl.acm.org/doi/10.1145/3474349.3480229). <br>
+  *User Interface Software and Technology (UIST)*.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Poster
+
+- Apurv Varshney, Mitch Munns, Justin Kasowski, Mantong Zhou, Chuanxiuyue He, Scott Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler (2023). <br>
+  [Visual Navigation Under High-Stress Conditions](https://www.visionsciences.org/presentation/?id=5184). <br>
+  *Vision Sciences Society (VSS)*.
