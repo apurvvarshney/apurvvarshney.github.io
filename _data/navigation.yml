@@ -6,8 +6,5 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Photography"
     url: /photography/
