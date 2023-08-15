@@ -3,7 +3,7 @@ title: "Visual Navigation under High-Stress Conditions"
 collection: poster
 permalink:
 excerpt:
-date:
+date: '2023-05-20'
 venue: 'VSS 2023'
 paperurl: 'https://www.visionsciences.org/presentation/?id=5184'
 citation:
