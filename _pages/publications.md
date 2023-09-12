@@ -14,6 +14,6 @@ author_profile: true
 ## Poster
 
 - Apurv Varshney, Mitch Munns, Justin Kasowski, Mantong Zhou, Chuanxiuyue He, Scott Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler (2023). <br>
-  [Visual Navigation Under High-Stress Conditions](https://www.visionsciences.org/presentation/?id=5184). <br>
+  [Visual Navigation Under High-Stress Conditions](https://doi.org/10.1167/jov.23.9.5184). <br>
   *Vision Sciences Society (VSS)*.<br>
   ![title](/images/stress.png)
