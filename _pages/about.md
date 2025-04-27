@@ -15,3 +15,5 @@ Before joining UCSB, I completed my B. Tech in Computer Science & Engg. from Ind
 Apart from my academic life, I enjoy [photography](https://apurvvarshney.github.io/photography/), biking, and watching Formula 1, although not all simultaneously.
 
 Do check out my [Resume](/files/Resume.pdf) for a snapshot of my capabilities and accomplishments.
+
+**NEWS: BionicVisionXR featured at [Unite Conference 2024](https://youtu.be/T-sbHvDF6Bw?t=581)!**
