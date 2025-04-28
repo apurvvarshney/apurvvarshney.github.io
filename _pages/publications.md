@@ -8,7 +8,7 @@ author_profile: true
 
 - Apurv Varshney, Lucas Nadolskis, Tobias Hollerer, Michael Beyeler (2025). <br>
   Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users <br>
-  *under review*
+  *under review* [preprint](/files/paper2025.pdf)
 
 - Apurv Varshney, Mitch Munns, Justin Kasowski, Mantong Zhou, Chuanxiuyue He, Scott Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler (2024). <br>
   [Stress affects navigation strategies in immersive virtual reality](https://www.nature.com/articles/s41598-024-56048-8). <br>
