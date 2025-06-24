@@ -16,4 +16,7 @@ Apart from my academic life, I enjoy [photography](https://apurvvarshney.github.
 
 Do check out my [Resume](/files/Resume.pdf) for a snapshot of my capabilities and accomplishments.
 
-**NEWS: BionicVisionXR featured at [Unite Conference 2024](https://youtu.be/T-sbHvDF6Bw?t=581)!**
+**NEWS:**
+* Gave Spotlight Talk/Poster at CVPR VizWiz Workshop 2025 [Workshop Website](https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/)!
+* Won CS Department's Outstanding TA Award!
+* BionicVisionXR featured at [Unite Conference 2024](https://youtu.be/T-sbHvDF6Bw?t=581)!
