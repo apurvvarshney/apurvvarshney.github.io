@@ -8,11 +8,11 @@ author_profile: true
 
 - **Apurv Varshney**, Lucas Nadolskis, Tobias Hollerer, Michael Beyeler (2025). <br>
   Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users <br>
-  *under review* [preprint](/files/paper2025.pdf)
+  *under review* [preprint](https://arxiv.org/abs/2504.19345)
 
 - Jonathan Skaza, Shravan Murlidaran, **Apurv Varshney**, Ziqi Wen, William Wang, Miguel P Eckstein, Michael Beyeler (2025). <br>
   A Deep Learning Framework for Predicting Functional Visual Performance in Bionic Eye Users <br>
-  [*preprint*](https://www.biorxiv.org/content/10.1101/2025.06.23.660990v1)
+  [preprint](https://www.biorxiv.org/content/10.1101/2025.06.23.660990v1)
 
 - **Apurv Varshney**, Mitch Munns, Justin Kasowski, Mantong Zhou, Chuanxiuyue He, Scott Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler (2024). <br>
   [Stress affects navigation strategies in immersive virtual reality](https://www.nature.com/articles/s41598-024-56048-8). <br>
