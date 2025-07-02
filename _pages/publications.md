@@ -11,6 +11,11 @@ author_profile: true
   *under review* [preprint](https://arxiv.org/abs/2504.19345)
   ![title](/images/teaser.png)
 
+- Justin M. Kasowski, **Apurv Varshney**, Roksana Sadeghi, Michael Beyeler (2025). <br>
+  Simulated prosthetic vision confirms checkerboard as an effective raster pattern for epiretinal implants <br>
+  *Journal of Neural Engineering* [preprint](https://arxiv.org/abs/2501.02084)
+  ![title](/images/raster.png)
+
 - Jonathan Skaza, Shravan Murlidaran, **Apurv Varshney**, Ziqi Wen, William Wang, Miguel P Eckstein, Michael Beyeler (2025). <br>
   A Deep Learning Framework for Predicting Functional Visual Performance in Bionic Eye Users <br>
   [preprint](https://www.biorxiv.org/content/10.1101/2025.06.23.660990v1)
