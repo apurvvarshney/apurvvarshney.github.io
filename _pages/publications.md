@@ -13,7 +13,7 @@ author_profile: true
 
 - Justin M. Kasowski, **Apurv Varshney**, Roksana Sadeghi, Michael Beyeler (2025). <br>
   Simulated prosthetic vision confirms checkerboard as an effective raster pattern for epiretinal implants <br>
-  *Journal of Neural Engineering* [preprint](https://arxiv.org/abs/2501.02084)
+  *Journal of Neural Engineering* [DOI](https://iopscience.iop.org/article/10.1088/1741-2552/adecc4)
   ![title](/images/raster.png)
 
 - Jonathan Skaza, Shravan Murlidaran, **Apurv Varshney**, Ziqi Wen, William Wang, Miguel P Eckstein, Michael Beyeler (2025). <br>
