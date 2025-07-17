@@ -11,6 +11,10 @@ author_profile: true
   *under review* [preprint](https://arxiv.org/abs/2504.19345)
   ![title](/images/teaser.png)
 
+- Justin M. Kasowski, **Apurv Varshney**, Michael Beyeler (2025). <br>
+  Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision <br>
+  *under review* [preprint](https://arxiv.org/abs/2507.10813)
+
 - Justin M. Kasowski, **Apurv Varshney**, Roksana Sadeghi, Michael Beyeler (2025). <br>
   Simulated prosthetic vision confirms checkerboard as an effective raster pattern for epiretinal implants <br>
   *Journal of Neural Engineering* [DOI](https://iopscience.iop.org/article/10.1088/1741-2552/adecc4)
