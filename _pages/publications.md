@@ -36,6 +36,10 @@ author_profile: true
   ![title](/images/flick.png)
 
 ## Published Posters
+- **Apurv Varshney**, Lucas Nadolskis, Michael Beyeler (2025). <br>
+  Evaluating Camera Placement for Last-Mile Navigation by Blind Users. <br>
+  *VizWiz Workshop at CVPR* [Workshop Website](https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/)
+
 - Jonathan Skaza, Shravan Murlidaran, **Apurv Varshney**, Ziqi Wen, Miguel P. Eckstein, Michael Beyeler (2025). <br>
   A Computational Virtual Patient Pipeline for Predicting Perceptual Capabilities with Visual Prostheses. <br>
   *Vision Sciences Society (VSS)* [DOI](https://doi.org/10.1167/jov.25.9.2829).
