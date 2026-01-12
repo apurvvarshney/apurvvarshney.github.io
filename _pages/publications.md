@@ -14,6 +14,7 @@ author_profile: true
 - Justin M. Kasowski, **Apurv Varshney**, Michael Beyeler (2025). <br>
   Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision <br>
   *ACM Symposium on Virtual Reality Software and Technology (VRST)* [DOI](https://doi.org/10.1145/3756884.3766003)
+  ![title](/images/vrst_raster_fig.jpg)
 
 - Justin M. Kasowski, **Apurv Varshney**, Roksana Sadeghi, Michael Beyeler (2025). <br>
   Simulated prosthetic vision confirms checkerboard as an effective raster pattern for epiretinal implants <br>
