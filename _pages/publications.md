@@ -6,7 +6,7 @@ author_profile: true
 
 ## Publications
 
-- **Apurv Varshney**, Lucas Nadolskis, Tobias Hollerer, Michael Beyeler (2025). <br>
+- **Apurv Varshney**, Lucas Nadolskis, Tobias Hollerer, Michael Beyeler (2025). <br> 
   Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users <br>
   *under review* [preprint](https://arxiv.org/abs/2504.19345)
   ![title](/images/teaser.png)
