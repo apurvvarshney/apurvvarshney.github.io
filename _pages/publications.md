@@ -9,10 +9,12 @@ author_profile: true
 - **Apurv Varshney**, Lily M. Turkstra, Jiaxin Su, Mable Zhou, Scott T. Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler (2026). <br>
   Actionable Guidance Outperforms Map and Compass Cues in Demanding Immersive VR Wayfinding <br>
   *under review* [preprint](https://arxiv.org/abs/2603.17238)
+  ![title](/images/navaid.png)
 
 - Mable Zhou, **Apurv Varshney**, Kayla P. Salcedo, Scott T. Grafton, Barry Giesbrecht, Michael Beyeler, Mary Hegarty (2026). <br>
   Adaptive training for navigation under stress: Impacts of stress exposure and spatial anxiety <br>
   *under review* [preprint](https://osf.io/preprints/psyarxiv/e9zsv_v2)
+  ![title](/images/trev.png)
   
 - **Apurv Varshney**, Lucas Nadolskis, Tobias Hollerer, Michael Beyeler (2025). <br> 
   Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users <br>
