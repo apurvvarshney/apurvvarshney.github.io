@@ -6,6 +6,11 @@ author_profile: true
 
 ## Publications
 
+- Tom Bullock, Emily Machniak, You-Jin Kim, Radha Kumaran, Justin Kasowski, **Apurv Varshney**, Julia Ram, Melissa M. Hernandez, Stina Johansson, Neil M. Dundon, Tobias Höllerer, Barry Giesbrecht (2026). <br>
+  SABER: Spatial Attention, Brain, Extended Reality <br>
+  *IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)* [preprint](https://arxiv.org/abs/2603.24830)
+  ![title](/images/saber_fig.png)
+
 - **Apurv Varshney**, Lily M. Turkstra, Jiaxin Su, Mable Zhou, Scott T. Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler (2026). <br>
   Actionable Guidance Outperforms Map and Compass Cues in Demanding Immersive VR Wayfinding <br>
   *under review* [preprint](https://arxiv.org/abs/2603.17238)
