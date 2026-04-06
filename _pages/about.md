@@ -27,5 +27,6 @@ Do check out my [Resume](/files/Resume.pdf) for a snapshot of my capabilities an
 * Alvin Wang, Edward Ding, Jeniffer Zhu & Kyle Zhao (ERSP 2023-2024)
 * Andrew Liang & Emma Shen (RMP 2023)
 
-**Review:**
-VRST'25, CHI'26
+**Reviewer:**
+* Conferences: UIST'25, VRST'25, CHI'26
+* Journals: Computer Methods and Programs in Biomedicine
