@@ -112,4 +112,24 @@
   }
   .av-poster .what { font-size: 0.86rem; line-height: 1.45; }
   .av-poster .what .aux { color: #9c968a; }
+
+  /* ---- Photography: light masonry gallery ---- */
+  .av-gallery { column-count: 2; column-gap: 10px; margin: 1.3em 0 0; }
+  .av-shot { display: block; margin: 0 0 10px; break-inside: avoid; border-radius: 6px; overflow: hidden; cursor: zoom-in; }
+  .av-shot img { display: block; width: 100%; height: auto; border-radius: 6px; transition: transform .3s ease, filter .3s ease; }
+  .av-shot:hover img { transform: scale(1.02); filter: brightness(1.03); }
+  @media (min-width: 1400px) { .av-gallery { column-count: 3; } }
+  @media (max-width: 520px)  { .av-gallery { column-count: 1; } }
+
+  /* ---- Lightbox (dark backdrop, used on the light gallery) ---- */
+  .av-lb { position: fixed; inset: 0; z-index: 9999; display: none; align-items: center; justify-content: center; background: rgba(13,16,21,.94); }
+  .av-lb.is-open { display: flex; }
+  .av-lb img { max-width: 92vw; max-height: 86vh; border-radius: 4px; box-shadow: 0 10px 40px rgba(0,0,0,.5); }
+  .av-lb__btn { position: absolute; background: none; border: 0; color: #f4f3ef; cursor: pointer; line-height: 1; padding: .2em .5em; opacity: .78; }
+  .av-lb__btn:hover { opacity: 1; }
+  .av-lb__close { top: 10px; right: 16px; font-size: 2rem; }
+  .av-lb__prev, .av-lb__next { top: 50%; transform: translateY(-50%); font-size: 2.6rem; }
+  .av-lb__prev { left: 6px; } .av-lb__next { right: 6px; }
+  .av-lb__count { position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
+    color: #cbccc6; font-family: Menlo, Monaco, "SF Mono", Consolas, monospace; font-size: .78rem; }
 </style>
