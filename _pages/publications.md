@@ -16,7 +16,7 @@ author_profile: true
     <span class="av-pub__badge">IEEE VR 2026</span>
     <p class="av-pub__title">SABER: Spatial attention, brain, extended reality</p>
     <p class="av-pub__authors">Tom Bullock, Emily Machniak, You-Jin Kim, Radha Kumaran, Justin Kasowski, <span class="me">Apurv Varshney</span>, Julia Ram, Melissa M. Hernandez, Stina Johansson, Neil M. Dundon, Tobias H&ouml;llerer, Barry Giesbrecht</p>
-    <p class="av-pub__links"><a href="https://arxiv.org/abs/2603.24830">preprint</a></p>
+    <p class="av-pub__links"><a href="https://doi.org/10.1109/VR67842.2026.00042">DOI</a></p>
   </div>
 </div>
 
@@ -114,8 +114,8 @@ author_profile: true
 
 <div class="av-posters">
   <div class="av-poster">
-    <span class="venue">CVPR '25</span>
-    <span class="what"><a href="https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/" style="color:inherit;">Evaluating camera placement for last-mile navigation by blind users</a> <span class="aux">&mdash; VizWiz Workshop. Varshney, Nadolskis, Beyeler.</span></span>
+    <span class="venue">CVPR VizWiz Workshop '25</span>
+    <span class="what"><a href="https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/" style="color:inherit;">Evaluating camera placement for last-mile navigation by blind users</a> <span class="aux">&mdash; Varshney, Nadolskis, Beyeler.</span></span>
   </div>
   <div class="av-poster">
     <span class="venue">VSS '25</span>
