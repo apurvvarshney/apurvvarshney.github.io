@@ -16,7 +16,6 @@ author_profile: true
     <span class="av-pub__badge">IEEE VR 2026</span>
     <p class="av-pub__title">SABER: Spatial attention, brain, extended reality</p>
     <p class="av-pub__authors">Tom Bullock, Emily Machniak, You-Jin Kim, Radha Kumaran, Justin Kasowski, <span class="me">Apurv Varshney</span>, Julia Ram, Melissa M. Hernandez, Stina Johansson, Neil M. Dundon, Tobias H&ouml;llerer, Barry Giesbrecht</p>
-    <p class="av-pub__takeaway">Measures how spatial attention plays out in the brain during search tasks in extended reality.</p>
     <p class="av-pub__links"><a href="https://arxiv.org/abs/2603.24830">preprint</a></p>
   </div>
 </div>
@@ -28,7 +27,6 @@ author_profile: true
     <span class="av-pub__badge">ACM VRST 2025</span>
     <p class="av-pub__title">Static or temporal? Semantic scene simplification to aid wayfinding in immersive simulations of bionic vision</p>
     <p class="av-pub__authors">Justin M. Kasowski, <span class="me">Apurv Varshney</span>, Michael Beyeler</p>
-    <p class="av-pub__takeaway">Tests which scene-simplification strategies best help simulated-prosthetic-vision users find their way.</p>
     <p class="av-pub__links"><a href="https://doi.org/10.1145/3756884.3766003">DOI</a></p>
   </div>
 </div>
@@ -40,7 +38,6 @@ author_profile: true
     <span class="av-pub__badge">J. Neural Engineering 2025</span>
     <p class="av-pub__title">Simulated prosthetic vision confirms checkerboard as an effective raster pattern for epiretinal implants</p>
     <p class="av-pub__authors">Justin M. Kasowski, <span class="me">Apurv Varshney</span>, Roksana Sadeghi, Michael Beyeler</p>
-    <p class="av-pub__takeaway">Shows a checkerboard raster pattern improves how epiretinal-implant users perceive scenes.</p>
     <p class="av-pub__links"><a href="https://iopscience.iop.org/article/10.1088/1741-2552/adecc4">DOI</a></p>
   </div>
 </div>
@@ -52,7 +49,6 @@ author_profile: true
     <span class="av-pub__badge">Scientific Reports 2024</span>
     <p class="av-pub__title">Stress affects navigation strategies in immersive virtual reality</p>
     <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Mitch Munns, Justin Kasowski, Mantong Zhou, Chuanxiuyue He, Scott Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler</p>
-    <p class="av-pub__takeaway">Finds that acute stress changes the route-planning strategies people use in VR.</p>
     <p class="av-pub__links"><a href="https://www.nature.com/articles/s41598-024-56048-8">DOI</a></p>
   </div>
 </div>
@@ -64,7 +60,6 @@ author_profile: true
     <span class="av-pub__badge">ACM UIST 2021</span>
     <p class="av-pub__title">Flick gesture interaction in augmented reality: AR Carrom</p>
     <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Justin Nilsen, Richa Wadaskar, Misha Sra</p>
-    <p class="av-pub__takeaway">Introduces a flick-gesture interaction, demonstrated through an AR version of Carrom.</p>
     <p class="av-pub__links"><a href="https://dl.acm.org/doi/10.1145/3474349.3480229">DOI</a></p>
   </div>
 </div>
@@ -78,7 +73,6 @@ author_profile: true
     <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2025</span>
     <p class="av-pub__title">Beyond physical reach: comparing head- and cane-mounted cameras for last-mile navigation by blind users</p>
     <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Lucas Nadolskis, Tobias H&ouml;llerer, Michael Beyeler</p>
-    <p class="av-pub__takeaway">Compares where to mount a camera to best guide blind users through the final stretch to a destination.</p>
     <p class="av-pub__links"><a href="https://arxiv.org/abs/2504.19345">preprint</a></p>
   </div>
 </div>
@@ -90,7 +84,6 @@ author_profile: true
     <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2026</span>
     <p class="av-pub__title">Actionable guidance outperforms map and compass cues in demanding immersive VR wayfinding</p>
     <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Lily M. Turkstra, Jiaxin Su, Mable Zhou, Scott T. Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler</p>
-    <p class="av-pub__takeaway">Finds step-by-step guidance beats map and compass cues when navigation demands are high.</p>
     <p class="av-pub__links"><a href="https://arxiv.org/abs/2603.17238">preprint</a></p>
   </div>
 </div>
@@ -102,7 +95,6 @@ author_profile: true
     <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2026</span>
     <p class="av-pub__title">Adaptive training for navigation under stress: impacts of stress exposure and spatial anxiety</p>
     <p class="av-pub__authors">Mable Zhou, <span class="me">Apurv Varshney</span>, Kayla P. Salcedo, Scott T. Grafton, Barry Giesbrecht, Michael Beyeler, Mary Hegarty</p>
-    <p class="av-pub__takeaway">Examines how stress exposure and spatial anxiety shape adaptive navigation training.</p>
     <p class="av-pub__links"><a href="https://osf.io/preprints/psyarxiv/e9zsv_v2">preprint</a></p>
   </div>
 </div>
@@ -114,7 +106,6 @@ author_profile: true
     <span class="av-pub__badge av-pub__badge--review">Preprint &middot; 2025</span>
     <p class="av-pub__title">A deep learning framework for predicting functional visual performance in bionic eye users</p>
     <p class="av-pub__authors">Jonathan Skaza, Shravan Murlidaran, <span class="me">Apurv Varshney</span>, Ziqi Wen, William Wang, Miguel P. Eckstein, Michael Beyeler</p>
-    <p class="av-pub__takeaway">Builds a deep-learning model that predicts how well bionic-eye users will perform on visual tasks.</p>
     <p class="av-pub__links"><a href="https://www.biorxiv.org/content/10.1101/2025.06.23.660990v1">preprint</a></p>
   </div>
 </div>
