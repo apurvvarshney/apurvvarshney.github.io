@@ -42,9 +42,13 @@
   /* ---- Homepage phosphene hero ---- */
   .av-hero {
     position: relative; overflow: hidden;
-    background: var(--av-hero-bg);
-    background-image: url("/images/phosphene-hero.svg");
-    background-size: cover; background-position: center right;
+    background-color: var(--av-hero-bg);
+    background-image:
+      linear-gradient(90deg, var(--av-hero-bg) 0%, rgba(245,241,232,.92) 36%, rgba(245,241,232,0) 68%),
+      url("/images/phosphene-hero.svg");
+    background-size: cover, cover;
+    background-position: center, right center;
+    background-repeat: no-repeat, no-repeat;
     border-radius: 12px;
     padding: 2.4rem 2rem; margin: 0 0 1.6rem;
   }
