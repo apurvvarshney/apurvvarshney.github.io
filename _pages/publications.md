@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p style="font-family:Menlo,Monaco,'SF Mono',Consolas,monospace;font-size:0.8rem;color:#9c968a;margin:0;">9 papers &middot; 4 posters &middot; <a href="https://scholar.google.com/citations?hl=en&user=10LqPjQAAAAJ" style="color:#854F0B;text-decoration:none;">Google Scholar</a></p>
+<p style="font-family:Menlo,Monaco,'SF Mono',Consolas,monospace;font-size:0.8rem;color:#9c968a;margin:0;"> <a href="https://scholar.google.com/citations?hl=en&user=10LqPjQAAAAJ" style="color:#854F0B;text-decoration:none;">Google Scholar</a></p>
 
 <p class="av-eyebrow" style="margin-top:2em;">Peer-reviewed</p>
 

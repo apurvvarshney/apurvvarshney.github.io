@@ -39,6 +39,6 @@ Away from research I shoot [photography](/photography/), ride bikes, and follow 
 
 <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Reviewer</p>
 <ul class="av-news">
-  <li>Conferences: UIST'25, VRST'25, CHI'26</li>
-  <li>Journals: Computer Methods and Programs in Biomedicine</li>
+  <li>Conferences: UIST'25, VRST'25, CHI'26, VRST'26</li>
+  <li>Journals: Computer Methods and Programs in Biomedicine, Cognitive Research: Principles and Implications</li>
 </ul>
