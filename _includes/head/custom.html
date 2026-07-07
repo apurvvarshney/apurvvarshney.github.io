@@ -1,38 +1,115 @@
-{% include base_path %}
+<!-- ============================================================
+     Custom styles for apurvvarshney.github.io
+     Loaded on every page via Academic Pages' supported
+     _includes/head/custom.html hook (survives theme updates).
+     Design concept: "phosphenes" — the dot-patterns bionic-eye
+     users perceive — used as the site's signature motif.
+     ============================================================ -->
+<style>
+  :root {
+    --av-accent:      #BA7517;  /* amber — phosphene / retinal-implant color */
+    --av-accent-deep: #854F0B;  /* text on amber tints */
+    --av-accent-soft: #FAEEDA;  /* amber tint background for badges */
+    --av-hero-bg:     #F5F1E8;  /* warm cream hero panel */
+    --av-ink:         #26210F;  /* hero heading ink */
+    --av-ink-soft:    #5C5647;  /* hero body ink */
+    --av-rule:        #E7E1D4;  /* hairline on cream */
+  }
 
-<!-- start custom head snippets -->
+  /* ---- Masthead nav: amber marker on the active link ---- */
+  .greedy-nav a.active,
+  .greedy-nav .visible-links a:hover { color: var(--av-accent) !important; }
+  .greedy-nav a.active::before {
+    content: ""; display: inline-block;
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--av-accent); margin-right: 7px; vertical-align: middle;
+  }
 
-<link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ base_path }}/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ base_path }}/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ base_path }}/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ base_path }}/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ base_path }}/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
-<link rel="manifest" href="{{ base_path }}/images/manifest.json?v=M44lzPylqQ">
-<link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
-<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+  /* ---- Mono eyebrow label (reused across pages) ---- */
+  .av-eyebrow {
+    font-family: Menlo, Monaco, "SF Mono", Consolas, monospace;
+    font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--av-accent-deep); margin: 0 0 0.6em;
+    display: flex; align-items: center; gap: 0.55em;
+  }
+  .av-eyebrow::before {
+    content: ""; width: 7px; height: 7px; border-radius: 50%;
+    background: var(--av-accent); flex: 0 0 auto;
+  }
+  .av-eyebrow--muted { color: #9c968a; }
+  .av-eyebrow--muted::before { background: #cbc3b2; }
 
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+  /* ---- Homepage phosphene hero ---- */
+  .av-hero {
+    position: relative; overflow: hidden;
+    background: var(--av-hero-bg);
+    background-image: url("/images/phosphene-hero.svg");
+    background-size: cover; background-position: center right;
+    border-radius: 12px;
+    padding: 2.4rem 2rem; margin: 0 0 1.6rem;
+  }
+  .av-hero__inner { position: relative; z-index: 2; max-width: 34em; }
+  .av-hero h1 {
+    font-size: 1.9rem; line-height: 1.15; font-weight: 700;
+    color: var(--av-ink); margin: 0 0 0.5em; border: 0;
+  }
+  .av-hero p {
+    font-size: 1rem; line-height: 1.6; color: var(--av-ink-soft); margin: 0;
+  }
+  @media (max-width: 600px) { .av-hero { padding: 1.8rem 1.3rem; } .av-hero h1 { font-size: 1.55rem; } }
 
-<!-- end custom head snippets -->
+  /* ---- News list with phosphene bullets ---- */
+  .av-news { list-style: none; padding: 0; margin: 0.4em 0 0; }
+  .av-news li { position: relative; padding-left: 1.4em; margin: 0 0 0.6em; line-height: 1.55; }
+  .av-news li::before {
+    content: ""; position: absolute; left: 0; top: 0.55em;
+    width: 7px; height: 7px; border-radius: 50%; background: var(--av-accent);
+  }
+  .av-news .av-year {
+    font-family: Menlo, Monaco, "SF Mono", Consolas, monospace;
+    font-size: 0.78em; color: #9c968a; margin-right: 0.5em;
+  }
+
+  /* ---- Publications ---- */
+  .av-filters { display: flex; gap: 0.5em; margin: 1em 0 1.8em; flex-wrap: wrap; }
+  .av-pill {
+    font-size: 0.8rem; padding: 0.32em 0.85em; border-radius: 20px;
+    border: 1px solid var(--av-rule); color: #6b665b; text-decoration: none;
+  }
+  .av-pill.is-on { background: var(--av-accent-soft); color: var(--av-accent-deep); border-color: transparent; }
+
+  .av-pub { display: grid; grid-template-columns: 108px 1fr; gap: 1.1em; margin: 0 0 1.6em; }
+  .av-pub__thumb {
+    width: 108px; height: 82px; border-radius: 8px; object-fit: cover;
+    border: 1px solid var(--av-rule); background: var(--av-hero-bg);
+  }
+  .av-pub__badge {
+    display: inline-block; font-size: 0.7rem; padding: 0.2em 0.6em;
+    border-radius: 5px; margin-bottom: 0.4em;
+    background: var(--av-accent-soft); color: var(--av-accent-deep);
+  }
+  .av-pub__badge--review {
+    background: transparent; color: #6b665b; border: 1px solid var(--av-rule);
+  }
+  .av-pub__title { font-size: 1rem; font-weight: 700; line-height: 1.35; margin: 0 0 0.25em; }
+  .av-pub__authors { font-size: 0.82rem; color: #6b665b; line-height: 1.5; margin: 0 0 0.3em; }
+  .av-pub__authors .me { color: var(--av-ink); font-weight: 700; }
+  .av-pub__takeaway { font-size: 0.82rem; color: #9c968a; font-style: italic; line-height: 1.5; margin: 0 0 0.45em; }
+  .av-pub__links { font-size: 0.8rem; }
+  .av-pub__links a { color: var(--av-accent-deep); margin-right: 1em; text-decoration: none; }
+  .av-pub__links a:hover { text-decoration: underline; }
+  @media (max-width: 520px) {
+    .av-pub { grid-template-columns: 1fr; }
+    .av-pub__thumb { width: 100%; height: 150px; }
+  }
+
+  /* ---- Compact poster rows ---- */
+  .av-posters { border-top: 1px solid var(--av-rule); margin-top: 0.6em; }
+  .av-poster { display: flex; gap: 0.9em; align-items: baseline; padding: 0.7em 0; border-bottom: 1px solid var(--av-rule); }
+  .av-poster .venue {
+    font-family: Menlo, Monaco, "SF Mono", Consolas, monospace;
+    font-size: 0.72rem; color: var(--av-accent-deep); flex: 0 0 5.2em;
+  }
+  .av-poster .what { font-size: 0.86rem; line-height: 1.45; }
+  .av-poster .what .aux { color: #9c968a; }
+</style>
