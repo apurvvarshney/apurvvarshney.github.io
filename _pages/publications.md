@@ -11,6 +11,28 @@ author_profile: true
 
 <!-- 1 -->
 <div class="av-pub">
+  <img class="av-pub__thumb" src="/images/teaserFutureFinal.png" alt="Camera placement figure" loading="lazy">
+  <div>
+    <span class="av-pub__badge">ISMAR 2026</span>
+    <p class="av-pub__title">Navigating the Last Mile: Evaluating Head- and Cane-Mounted Cameras for Egocentric Spatial Awareness</p>
+    <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Lucas Nadolskis, Tobias H&ouml;llerer, Michael Beyeler</p>
+    <p class="av-pub__links"><a href="https://arxiv.org/abs/2504.19345">preprint</a></p>
+  </div>
+</div>
+
+<!-- 2 -->
+<div class="av-pub">
+  <img class="av-pub__thumb" src="/images/navaid.png" alt="Wayfinding guidance figure" loading="lazy">
+  <div>
+    <span class="av-pub__badge">ISMAR 2026</span>
+    <p class="av-pub__title">Actionable guidance outperforms map and compass cues in demanding immersive VR wayfinding</p>
+    <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Lily M. Turkstra, Jiaxin Su, Mable Zhou, Scott T. Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler</p>
+    <p class="av-pub__links"><a href="https://arxiv.org/abs/2603.17238">preprint</a></p>
+  </div>
+</div>
+
+<!-- 3 -->
+<div class="av-pub">
   <img class="av-pub__thumb" src="/images/saber_fig.png" alt="SABER figure" loading="lazy">
   <div>
     <span class="av-pub__badge">IEEE VR 2026</span>
@@ -20,7 +42,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 2 -->
+<!-- 4 -->
 <div class="av-pub">
   <img class="av-pub__thumb" src="/images/vrst_raster_fig.jpg" alt="Scene simplification figure" loading="lazy">
   <div>
@@ -31,7 +53,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 3 -->
+<!-- 5 -->
 <div class="av-pub">
   <img class="av-pub__thumb" src="/images/raster.png" alt="Checkerboard raster figure" loading="lazy">
   <div>
@@ -42,7 +64,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 4 -->
+<!-- 6 -->
 <div class="av-pub">
   <img class="av-pub__thumb" src="/images/stress.png" alt="Stress navigation figure" loading="lazy">
   <div>
@@ -53,7 +75,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 5 -->
+<!-- 7 -->
 <div class="av-pub">
   <img class="av-pub__thumb" src="/images/flick.png" alt="AR Carrom figure" loading="lazy">
   <div>
@@ -65,28 +87,6 @@ author_profile: true
 </div>
 
 <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2.4em;">Preprints &amp; under review</p>
-
-<!-- 6 -->
-<div class="av-pub">
-  <img class="av-pub__thumb" src="/images/teaser.png" alt="Camera placement figure" loading="lazy">
-  <div>
-    <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2025</span>
-    <p class="av-pub__title">Beyond physical reach: comparing head- and cane-mounted cameras for last-mile navigation by blind users</p>
-    <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Lucas Nadolskis, Tobias H&ouml;llerer, Michael Beyeler</p>
-    <p class="av-pub__links"><a href="https://arxiv.org/abs/2504.19345">preprint</a></p>
-  </div>
-</div>
-
-<!-- 7 -->
-<div class="av-pub">
-  <img class="av-pub__thumb" src="/images/navaid.png" alt="Wayfinding guidance figure" loading="lazy">
-  <div>
-    <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2026</span>
-    <p class="av-pub__title">Actionable guidance outperforms map and compass cues in demanding immersive VR wayfinding</p>
-    <p class="av-pub__authors"><span class="me">Apurv Varshney</span>, Lily M. Turkstra, Jiaxin Su, Mable Zhou, Scott T. Grafton, Barry Giesbrecht, Mary Hegarty, Michael Beyeler</p>
-    <p class="av-pub__links"><a href="https://arxiv.org/abs/2603.17238">preprint</a></p>
-  </div>
-</div>
 
 <!-- 8 -->
 <div class="av-pub">
