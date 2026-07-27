@@ -24,6 +24,7 @@ Away from research I shoot [photography](/photography/), ride bikes, and follow 
 
 <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Recent</p>
 <ul class="av-news">
+  <li><span class="av-year">2026</span>Two papers acepted at ISMAR 2026.</li>
   <li><span class="av-year">2025</span>Awarded the Office of International Students and Scholars' Students in STEM Scholarship.</li>
   <li><span class="av-year">2025</span>Attended VRST'25 and gave a talk.</li>
   <li><span class="av-year">2025</span>Gave a spotlight talk and poster at the CVPR VizWiz Workshop — <a href="https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/">workshop</a>.</li>
