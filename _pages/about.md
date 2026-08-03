@@ -10,8 +10,8 @@ redirect_from:
 
 <div class="av-hero">
   <div class="av-hero__inner">
-    <p class="av-eyebrow">Bionic vision &middot; mixed reality &middot; HCI</p>
-    <h1>Helping blind and low-vision people navigate the world.</h1>
+    <p class="av-eyebrow">Mixed reality &middot; HCI</p>
+    <h1>Adressing navigational challenges faced by blind people.</h1>
     <p>PhD Student in the Bionic Vision Lab at UC&nbsp;Santa Barbara.</p>
   </div>
 </div>
