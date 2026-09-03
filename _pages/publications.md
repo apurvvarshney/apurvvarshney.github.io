@@ -90,6 +90,17 @@ author_profile: true
 
 <!-- 8 -->
 <div class="av-pub">
+  <img class="av-pub__thumb" src="/images/crossModal.png" alt="Adaptive training figure" loading="lazy">
+  <div>
+    <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2026</span>
+    <p class="av-pub__title">Cross-Modal Guidance for Out-of-View Object Search in Simulated Prosthetic Vision</p>
+    <p class="av-pub__authors">Adyah Rastogi, <span class="me">Apurv Varshney</span>, Tobias Höllerer, Michael Beyeler</p>
+    <p class="av-pub__links"><a href="https://arxiv.org/abs/2609.01438">preprint</a></p>
+  </div>
+</div>
+
+<!-- 9 -->
+<div class="av-pub">
   <img class="av-pub__thumb" src="/images/trev.png" alt="Adaptive training figure" loading="lazy">
   <div>
     <span class="av-pub__badge av-pub__badge--review">Under review &middot; 2026</span>
@@ -99,7 +110,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 9 -->
+<!-- 10 -->
 <div class="av-pub">
   <img class="av-pub__thumb" src="/images/skaza2025.png" alt="Virtual patient figure" loading="lazy">
   <div>
