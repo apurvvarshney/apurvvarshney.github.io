@@ -26,7 +26,7 @@ Away from research I shoot [photography](/photography/), ride bikes, and follow 
 
 <div class="av-meta">
   <section>
-    <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Recent</p>
+    <p class="av-eyebrow av-eyebrow--muted">Recent</p>
     <ul class="av-news">
       <li><span class="av-year">2026</span>Won <a href="https://www.ieeeismar.net/2026/awards/#paper-awards-section">Best Paper Award</a> at ISMAR 2026!</li>
       <li><span class="av-year">2026</span>Two papers accepted at ISMAR 2026.</li>
@@ -39,7 +39,7 @@ Away from research I shoot [photography](/photography/), ride bikes, and follow 
     </ul>
   </section>
   <section class="av-meta__side">
-    <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Students mentored</p>
+    <p class="av-eyebrow av-eyebrow--muted">Students mentored</p>
     <ul class="av-news">
       <li>Alvin Wang, Edward Ding, Jennifer Zhu &amp; Kyle Zhao <span class="aux">(ERSP 2023&ndash;2024)</span></li>
       <li>Andrew Liang &amp; Emma Shen <span class="aux">(RMP 2023)</span></li>
