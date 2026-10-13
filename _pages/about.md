@@ -24,26 +24,31 @@ My interest in computing for health started at the Indian Institute of Technolog
 
 Away from research I shoot [photography](/photography/), ride bikes, and follow Formula 1. For a fuller snapshot, here's my [résumé](/files/Resume.pdf).
 
-<p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Recent</p>
-<ul class="av-news">
-  <li><span class="av-year">2026</span>Won <a href="https://www.ieeeismar.net/2026/awards/#paper-awards-section">Best Paper Award</a> at ISMAR 2026!</li>
-  <li><span class="av-year">2026</span>Two papers accepted at ISMAR 2026.</li>
-  <li><span class="av-year">2026</span>BionicVisionXR featured at <a href="https://science.ucsb.edu/news/county-science-fair-uc-santa-barbara-mentors-help-young-researchers-see-whats-possible">Santa Barbara County Science and Engineering Fair</a>.</li>
-  <li><span class="av-year">2025</span>Awarded the Office of International Students and Scholars' Students in STEM Scholarship.</li>
-  <li><span class="av-year">2025</span>Attended VRST'25 and gave a talk.</li>
-  <li><span class="av-year">2025</span>Gave a spotlight talk and poster at the CVPR VizWiz Workshop - <a href="https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/">workshop</a>.</li>
-  <li><span class="av-year">2025</span>Won the CS Department's Outstanding TA Award.</li>
-  <li><span class="av-year">2024</span>BionicVisionXR featured at <a href="https://youtu.be/T-sbHvDF6Bw?t=581">Unite Conference 2024</a>.</li>
-</ul>
-
-<p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Students mentored</p>
-<ul class="av-news">
-  <li>Alvin Wang, Edward Ding, Jennifer Zhu &amp; Kyle Zhao <span class="aux">(ERSP 2023&ndash;2024)</span></li>
-  <li>Andrew Liang &amp; Emma Shen <span class="aux">(RMP 2023)</span></li>
-</ul>
-
-<p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Reviewer</p>
-<ul class="av-news">
-  <li>Conferences: UIST'25, VRST'25, CHI'26, VRST'26</li>
-  <li>Journals: Computer Methods and Programs in Biomedicine, Cognitive Research: Principles and Implications</li>
-</ul>
+<div class="av-meta">
+  <section>
+    <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Recent</p>
+    <ul class="av-news">
+      <li><span class="av-year">2026</span>Won <a href="https://www.ieeeismar.net/2026/awards/#paper-awards-section">Best Paper Award</a> at ISMAR 2026!</li>
+      <li><span class="av-year">2026</span>Two papers accepted at ISMAR 2026.</li>
+      <li><span class="av-year">2026</span>BionicVisionXR featured at <a href="https://science.ucsb.edu/news/county-science-fair-uc-santa-barbara-mentors-help-young-researchers-see-whats-possible">Santa Barbara County Science and Engineering Fair</a>.</li>
+      <li><span class="av-year">2025</span>Awarded the Office of International Students and Scholars' Students in STEM Scholarship.</li>
+      <li><span class="av-year">2025</span>Attended VRST'25 and gave a talk.</li>
+      <li><span class="av-year">2025</span>Gave a spotlight talk and poster at the CVPR VizWiz Workshop - <a href="https://vizwiz.org/workshops/2025-vizwiz-grand-challenge-workshop/">workshop</a>.</li>
+      <li><span class="av-year">2025</span>Won the CS Department's Outstanding TA Award.</li>
+      <li><span class="av-year">2024</span>BionicVisionXR featured at <a href="https://youtu.be/T-sbHvDF6Bw?t=581">Unite Conference 2024</a>.</li>
+    </ul>
+  </section>
+  <section class="av-meta__side">
+    <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Students mentored</p>
+    <ul class="av-news">
+      <li>Alvin Wang, Edward Ding, Jennifer Zhu &amp; Kyle Zhao <span class="aux">(ERSP 2023&ndash;2024)</span></li>
+      <li>Andrew Liang &amp; Emma Shen <span class="aux">(RMP 2023)</span></li>
+    </ul>
+    
+    <p class="av-eyebrow av-eyebrow--muted" style="margin-top:2em;">Reviewer</p>
+    <ul class="av-news">
+      <li>Conferences: UIST'25, VRST'25, CHI'26, VRST'26</li>
+      <li>Journals: Computer Methods and Programs in Biomedicine, Cognitive Research: Principles and Implications</li>
+    </ul>
+  </section>
+</div>
