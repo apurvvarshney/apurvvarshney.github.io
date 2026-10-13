@@ -136,4 +136,28 @@
   .av-lb__prev { left: 6px; } .av-lb__next { right: 6px; }
   .av-lb__count { position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
     color: #cbccc6; font-family: Menlo, Monaco, "SF Mono", Consolas, monospace; font-size: .78rem; }
+  
+  /* ---- Homepage: tighter layout (scoped to pages containing .av-meta) ---- */
+  #main:has(.av-meta) { margin-top: 1em; }
+  @media (min-width: 925px) {
+    /* theme leaves ~17% empty gutter on the right of every page */
+    .page:has(.av-meta) { padding-right: 4%; }
+  }
+  .page:has(.av-meta) .page__content > p { margin-bottom: 0.8em; line-height: 1.6; }
+  .page:has(.av-meta) .page__meta { display: none; }
+
+  .av-meta {
+    display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+    gap: 0 2.2em; margin-top: 1.3em; padding-top: 1.1em;
+    border-top: 1px solid var(--av-rule);
+  }
+  .av-meta .av-eyebrow { margin: 0 0 0.45em; }
+  .av-meta .av-news { margin: 0; }
+  .av-meta .av-news + .av-eyebrow { margin-top: 1.1em; }
+  .av-meta .av-news li { margin-bottom: 0.3em; line-height: 1.45; font-size: 0.9em; }
+  .av-meta .aux { color: #9c968a; }
+  @media (max-width: 760px) {
+    .av-meta { grid-template-columns: 1fr; }
+    .av-meta__side { margin-top: 1.1em; }
+  }
 </style>
