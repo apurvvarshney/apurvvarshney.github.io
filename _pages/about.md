@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<div class="av-hero">
+<!-- <div class="av-hero">
   <div class="av-hero__inner">
     <p class="av-eyebrow">Mixed reality &middot; HCI</p>
     <h1>Adressing navigational challenges faced by blind people.</h1>
     <p>PhD Student in the Bionic Vision Lab at UC&nbsp;Santa Barbara.</p>
   </div>
-</div>
+</div> -->
 
 I'm interested in how **computer vision, human-computer interaction, and extended reality** can work together to solve problems in **health and assistive navigation**.
 
-In the [Bionic Vision Lab](https://bionicvisionlab.org/) at UCSB, advised by Prof. [Michael Beyeler](https://cs.ucsb.edu/people/faculty/michael-beyeler), my dissertation tackles the *last mile* of navigation for people who are blind or have low vision: the final stretch where GPS stops being useful. I study where wearable cameras should go to capture useful spatial information ([head- vs. cane-mounted](https://bionicvisionlab.org/publications/2026-10-navigating-last-mile/)) and how to turn that information into guidance people can act on ([actionable cues beat maps and compasses](https://bionicvisionlab.org/publications/2026-10-vr-guidance-arrow-map-compass/), ISMAR 2026 Best Paper). I also lead development of [BionicVisionXR](https://bionicvisionlab.org/code/bionicvisionxr/), our open-source toolbox for *simulating* what bionic-eye users see, so we can design and test visual aids in mixed reality before they reach patients. See all my [projects](https://bionicvisionlab.org/people/varshney_apurv/) and [publications](https://scholar.google.com/citations?user=10LqPjQAAAAJ&hl=en).
+In the [Bionic Vision Lab](https://bionicvisionlab.org/) at UCSB, advised by Prof. [Michael Beyeler](https://cs.ucsb.edu/people/faculty/michael-beyeler), my dissertation tackles the *last mile* of navigation for people who are blind or have low vision: the final stretch where GPS stops being useful. I study where wearable cameras should go to capture useful spatial information ([head- vs. cane-mounted](https://arxiv.org/abs/2504.19345)) and how to turn that information into guidance people can act on ([actionable cues beat maps and compasses](https://arxiv.org/abs/2603.17238), ISMAR 2026 Best Paper). I also lead development of [BionicVisionXR](https://bionicvisionlab.org/code/bionicvisionxr/), our open-source toolbox for *simulating* what bionic-eye users see, so we can design and test visual aids in mixed reality before they reach patients. See all my [projects](https://bionicvisionlab.org/people/varshney_apurv/) and [publications](https://scholar.google.com/citations?user=10LqPjQAAAAJ&hl=en).
 
 My interest in computing for health started at the Indian Institute of Technology, Goa, where I earned my B.Tech in Computer Science &amp; Engineering and worked with Prof. [Clint George](https://clintpgeorge.github.io/) on detecting breast cancer subtypes from gene-expression data.
 
