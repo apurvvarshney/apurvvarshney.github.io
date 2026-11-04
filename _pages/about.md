@@ -22,7 +22,7 @@ In the [Bionic Vision Lab](https://bionicvisionlab.org/) at UCSB, advised by Pro
 
 My interest in computing for health started at the Indian Institute of Technology, Goa, where I earned my B.Tech in Computer Science &amp; Engineering and worked with Prof. [Clint George](https://clintpgeorge.github.io/) on detecting breast cancer subtypes from gene-expression data.
 
-Away from research I shoot [photography](/photography/), ride bikes, and follow Formula 1. For a fuller snapshot, here's my [résumé](/files/Resume.pdf).
+Away from research I shoot [photography](/photography/), ride bikes, and follow Formula 1. For a fuller snapshot, here's my [résumé](/files/apurv_varshney_resume.pdf).
 
 <div class="av-meta">
   <section>
